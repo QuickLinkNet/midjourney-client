@@ -1,6 +1,6 @@
 export class HelloComponent {
   // Deklaration der Komponenteneigenschaften
-  public message: string = "Hallo Welt!";
+  public message: string = "Hallo Welt 2!";
 
   // Konstruktor (optional)
   constructor() {}
